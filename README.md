@@ -24,4 +24,4 @@ A Java console application that demonstrates object-oriented programming using a
 
 📊 **UML Diagram**
 
-![UML Diagram]("UML diagram.png")
+![UML Diagram](UML_diagram.png)
